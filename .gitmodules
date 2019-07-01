@@ -1,0 +1,4 @@
+[submodule "abkdemo/product-attribute"]
+	path = abkdemo/product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 12.0
